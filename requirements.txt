@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+deepface
+tf-keras
+opencv-python
+numpy
+pydantic-settings
+email-validator
